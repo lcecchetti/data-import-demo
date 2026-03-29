@@ -34,8 +34,13 @@ Doe,25
 ## Overview & Approach
 
 The flow is structured into two main steps: 
+
 - define the schema
+<img width="1005" height="562" alt="image" src="https://github.com/user-attachments/assets/1e71a73b-a728-4a3c-960d-0dfe1565a7a3" />
+
 - validate and submit the data
+<img width="1021" height="560" alt="image" src="https://github.com/user-attachments/assets/18df4d54-9359-4056-a3c5-d39dc656ecca" />
+
 
 ---
 
